@@ -42,10 +42,10 @@ Images will be processed through DepthNet and MobileNet models to create depth m
 The robotic_exploration_camera_distance_data_analysis.ipynb notebook contains the code for this investigation.
 
 ## Exercise Resources
-* [Presentation](Robotic%20Exploration%20-%20Distance%20and%20Analysis%20-%20Public.pptx): Provides a detailed overview of the exercise, its objectives, the procedures, and the technology used.
+* [Presentation](Robotic%20Exploration%20-%20Distance%20and%20Analysis%20-%20Public.pdf): Provides a detailed overview of the exercise, its objectives, the procedures, and the technology used.
 * [Jupyter Notebook](robotic_exploration_camera_distance_data_analysis.ipynb): JupyterLab Notebook that drives the data collection procedures and analysis for the exercise.
-* [Graph Paper](Graph%20Paper.docx): Printable sheet for students to map their sensor data.
-* [Debrief](Exercise%20Debrief.docx): Exercise reflection and analysis.
+* [Graph Paper](Graph%20Paper.pdf): Printable sheet for students to map their sensor data.
+* [Debrief](Exercise%20Debrief.pdf): Exercise reflection and analysis.
 
 ## Contributing
 Your contributions to improve or extend this educational activity are welcome. Please follow the standard GitHub pull request process.

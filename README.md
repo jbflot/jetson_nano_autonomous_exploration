@@ -2,11 +2,17 @@
 ## Overview
 This project focuses on using the Jetson Nano for robotic exploration, leveraging a camera and a distance sensor. The goal is to help students understand how robot sensors capture information from the world and how AI models like MobileNet and DepthNet can process this data into meaningful perception.
 
+![DepthNet Processing](depthnet.jpg)
+![Distance Sensor Plot](2D_plot.png)
+
 ## Components
-Jetson Nano: Central computing unit.
-Camera: For capturing visual data.
-VL53L1X Distance Sensor: For measuring distances.
-Jetbot: A robot platform for the Jetson Nano.
+![Jetbot with CSI Camera and VL53L1X Distance Sensor](jetbot.jpg)
+
+* Jetson Nano
+* Jetbot
+* CSI Camera
+* VL53L1X Distance Sensor
+
 
 ## Objectives
 Understand how robots can navigate and analyze environments.
